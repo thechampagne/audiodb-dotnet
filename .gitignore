@@ -1,0 +1,5 @@
+.idea/
+src/AudioDB/bin/
+src/AudioDB/obj/
+docfx/
+icon.jpg
